@@ -1,7 +1,0 @@
-*root
-a.out
-*.condor
-*.o
-*.dh
-*.png
-DummyFile
